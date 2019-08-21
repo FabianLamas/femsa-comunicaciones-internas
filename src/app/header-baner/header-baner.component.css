@@ -1,0 +1,12 @@
+.carousel-item p{
+ color: white;
+ font-weight: bolder;
+ position: absolute;
+ bottom: 8px;
+ left: 16px;
+ font-size: 28px;
+}
+
+#carouselExampleIndicators{
+ position: relative;
+}

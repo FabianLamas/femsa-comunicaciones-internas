@@ -1,0 +1,12 @@
+img{
+ position: relative;
+}
+
+p{
+ color: white;
+ font-weight: bolder;
+ position: absolute;
+ bottom: 8px;
+ left: 16px;
+ font-size: 18px;
+}
