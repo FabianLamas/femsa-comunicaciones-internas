@@ -9,6 +9,7 @@ import { HeaderBanerComponent } from './header-baner/header-baner.component';
 import { ConectividadComponent } from './conectividad/conectividad.component';
 import { LinkButtonsComponent } from './link-buttons/link-buttons.component';
 import { FooterComponent } from './footer/footer.component';
+import { TestAnimationComponent } from './test-animation/test-animation.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { FooterComponent } from './footer/footer.component';
     HeaderBanerComponent,
     ConectividadComponent,
     LinkButtonsComponent,
-    FooterComponent
+    FooterComponent,
+    TestAnimationComponent
   ],
   imports: [
     BrowserModule,

@@ -1,5 +1,6 @@
 img{
  position: relative;
+ width: 100%;
 }
 
 p{
@@ -9,4 +10,24 @@ p{
  bottom: 8px;
  left: 16px;
  font-size: 18px;
+}
+
+.miAnimacion{
+ -webkit-transition: all .4s ease-in;
+ -moz-transition: all .4s ease-in;
+ -ms-transition: all .4s ease-in;
+ -o-transition: all .4s ease-in;
+ transition: all .4s ease-in;
+}
+
+#miDiv2{
+ position: relative;
+}
+.miAnimacion2{
+ position: absolute;
+ -webkit-transition: all .4s ease-in;
+ -moz-transition: all .4s ease-in;
+ -ms-transition: all .4s ease-in;
+ -o-transition: all .4s ease-in;
+ transition: all .4s ease-in;
 }
